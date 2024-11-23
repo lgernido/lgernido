@@ -2,26 +2,29 @@
   <h1>👋 Hello World, I’m Lucie Gernidos!</h1>
 </div>
 
-<div id="badges" align="center">
-  <a href="www.linkedin.com/in/lucie-gernidos-816b65178">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<div id="counter" align="center">
-<img src="https://komarev.com/ghpvc/?username=lgernido&style=flat-square&color=blue" alt=""/>
-</div>
-
----
-
 <div align="center">
-  <h2> 🌱 Aspiring Software Developer and student at 42 Paris</h2>
+  <h3> 🌱 Aspiring Software Developer and student at 42 Paris</h3>
+  <br>
 </div>
+
 
   👩‍🎓 Student at 42 Paris since November 2023
 
   ⚡ Currently working on **ft_transcendence** 
 
+<div align="center">
+  <span>
+    <a href="https://www.linkedin.com/in/lucie-gernidos-816b65178" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </span>
+  <span>
+    <img src="https://komarev.com/ghpvc/?username=lgernido&style=flat-square&color=blue" alt="Profile Views"/>
+  </span>
+</div>
+
   ---
+  
 <div align="center">
   <h3> 🛠️ Language and Tools <br><br> </h3>
 </div>
