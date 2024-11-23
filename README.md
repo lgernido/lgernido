@@ -47,7 +47,7 @@
 </div>
 
 <div align="center">
-  <h3> 🏆 Cool Projects I worked on <br><br> </h3>
+  <h3> 🏆 Cool Projects I've worked on <br><br> </h3>
 </div>
 
 <div align="center">
