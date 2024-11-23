@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3> 🌱 Aspiring Software Developer and student at 42 Paris</h3>
+  <h4> 🌱 Aspiring Software Developer and student at 42 Paris</h4>
   <br>
 </div>
 
