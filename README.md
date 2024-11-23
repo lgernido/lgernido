@@ -1,3 +1,7 @@
+<div>
+    <img src="https://komarev.com/ghpvc/?username=lgernido&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
+
 <div align="center">
   <h1>👋 Hello World, I’m Lucie Gernidos!</h1>
 </div>
@@ -13,14 +17,8 @@
   ⚡ Currently working on **ft_transcendence** 
 
 <div align="center">
-  <span>
     <a href="https://www.linkedin.com/in/lucie-gernidos-816b65178" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </span>
-  <span>
-    <img src="https://komarev.com/ghpvc/?username=lgernido&style=flat-square&color=blue" alt="Profile Views"/>
-  </span>
 </div>
 
   ---
