@@ -14,7 +14,7 @@
 
   👩‍🎓 Student at 42 Paris since November 2023
 
-  ⚡ Currently working on **Piscine Pyhton for Data Science** 
+  ⚡ Currently **looking for an internship** 
 
 <div align="center">
     <a href="https://www.linkedin.com/in/lucie-gernidos-816b65178" target="_blank">
