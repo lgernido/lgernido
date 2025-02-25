@@ -1,4 +1,4 @@
-<div>
+Z<div>
     <img src="https://komarev.com/ghpvc/?username=lgernido&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
@@ -51,8 +51,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lgernido&repo=fractol&theme=radical" alt="Fav Projects" href="https://github.com/lgernido/fractol"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lgernido&repo=Inception&theme=radical" alt="Fav Projects" href="https://github.com/lgernido/Inception"/>
+    <a href="https://github.com/lgernido/fractol"> </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lgernido&repo=fractol&theme=radical" alt="Fav Projects"/>
+    <a href="https://github.com/lgernido/Inception"> </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lgernido&repo=Inception&theme=radical" alt="Fav Projects"/>
   <br><br>
 </div>
 
