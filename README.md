@@ -51,10 +51,10 @@ Z<div>
 </div>
 
 <div align="center">
-    <a href="https://github.com/lgernido/fractol"> </a>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lgernido&repo=fractol&theme=radical" alt="Fav Projects"/>
-    <a href="https://github.com/lgernido/Inception"> </a>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lgernido&repo=Inception&theme=radical" alt="Fav Projects"/>
+    <a href="https://github.com/lgernido/fractol"> 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lgernido&repo=fractol&theme=radical" alt="Fav Projects"/> </a>
+    <a href="https://github.com/lgernido/Inception">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lgernido&repo=Inception&theme=radical" alt="Fav Projects"/> </a>
   <br><br>
 </div>
 
