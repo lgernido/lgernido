@@ -47,7 +47,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgernido&layout=compact&hide=Roff,Perl&theme=radical&langs_count=10" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgernido&layout=compact&hide=Roff,Perl&theme=radical&langs_count=10&v=2" alt="Top Langs" />
   <br><br>
 </div>
 
@@ -57,9 +57,9 @@
 
 <div align="center">
     <a href="https://github.com/lgernido/fractol"> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lgernido&repo=fractol&theme=radical" alt="Fav Projects"/> </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lgernido&repo=fractol&theme=radical&v=2" alt="Fav Projects"/> </a>
     <a href="https://github.com/lgernido/Inception">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lgernido&repo=Inception&theme=radical" alt="Fav Projects"/> </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lgernido&repo=Inception&theme=radical&v=2" alt="Fav Projects"/> </a>
   <br><br>
 </div>
 
