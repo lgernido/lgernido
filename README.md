@@ -55,6 +55,8 @@
   <br><br>
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgernidos&layout=compact)
+
 <div align="center">
   <h3> 🏆 Cool Projects I've worked on <br><br> </h3>
 </div>
