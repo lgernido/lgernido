@@ -51,7 +51,7 @@
 </div>
 
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgernido&layout=compact&hide=Roff,Perl&theme=radical&langs_count=6" alt="Top Langs" &cache_seconds=1800 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgernido&layout=compact&hide=Roff,Perl&theme=radical&langs_count=7" alt="Top Langs" &cache_seconds=1800 />
   <br><br>
 </div>
 
