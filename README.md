@@ -64,6 +64,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=lgernido&repo=fractol&theme=radical" alt="Fav Projects"/> </a>
     <a href="https://github.com/lgernido/Inception">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=lgernido&repo=Inception&theme=radical" alt="Fav Projects"/> </a>
+    <a href="https://github.com/lgernido/dslr"> 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lgernido&repo=dslr&theme=radical" alt="Fav Projects"/> </a>
   <br><br>
 </div>
 
