@@ -14,9 +14,9 @@
 
   👩‍🎓 Student at 42 Paris since November 2023
 
-  ⚡ Currently working on **personal pojects**
+  ⚡ Currently working on **personal projects**
 
-  💼 Available for a 6 months internship
+  💼 Available for internships/work
 
 <div align="center">
     <a href="https://www.linkedin.com/in/lucie-gernidos-816b65178" target="_blank">
