@@ -14,7 +14,7 @@
 
   👩‍🎓 Student at 42 Paris since November 2023
 
-  ⚡ Currently working on **personal projects**
+  ⚡ Currently working on **ft_linear_regression**
 
   💼 Available for internships/work
 
