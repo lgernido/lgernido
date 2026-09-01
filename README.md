@@ -14,7 +14,7 @@
 
   👩‍🎓 Student at 42 Paris since November 2023
 
-  ⚡ Currently working on **personal projects**
+  ⚡ Currently working as a **Workday Integration Analyst @BNB**
 
 
 <div align="center">
