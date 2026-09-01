@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <h4> 🌱 Aspiring Software Developer and student at 42 Paris</h4>
+  <h4> 🌱 Software Developer and former student at 42 Paris</h4>
   <br>
 </div>
 
